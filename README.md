@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PLM-JBECP<br>🌱 I’m currently learning React.js, Node.js and MongoDB!<br>👨‍💻 All of my accolades are available at https://www.linkedin.com/in/lukelumakin/<br>💬 Ask me about Robotics and Software!<br>📫 How to reach me: lukegabriel520@gmail.com<br>⚡ Fun fact - I've hiked 3 mountains!
+🔭 I’m currently working on PLM-GDSC<br>🌱 I’m learning React, Next.js and MongoDB!<br>👨‍💻 All of my accolades are available at https://www.linkedin.com/in/lukelumakin/<br>💬 Ask me about Robotics and Software!<br>📫 How to reach me: lukegabriel520@gmail.com<br>⚡ Fun fact - I've hiked 3 mountains!
 
 
 ## 🌐 Socials:
