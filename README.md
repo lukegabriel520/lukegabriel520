@@ -1,5 +1,5 @@
 About Me:
-I’m currently learning React, and NextJS!<br> All of my accomplishments are available at https://www.linkedin.com/in/lukelumakin/<br> Ask me about Robotics and Software!<br> How to reach me: lukegabriel520@gmail.com<br> Cool fact - I adore hiking!
+I’m currently learning React, and NextJSbr> All of my accomplishments are available at https://www.linkedin.com/in/lukelumakin/<br> Ask me about Robotics and Software<br> How to reach me: lukegabriel520@gmail.com<br> Cool fact - I adore hiking!
 
 
 ## Socials:
