@@ -1,7 +1,3 @@
-About Me:
-I’m currently learning Rusttttt<br> All of my accomplishments are available at https://www.linkedin.com/in/lukelumakin/<br> Ask me about Robotics and Software<br> How to reach me: lukegabriel520@gmail.com<br> Cool fact - I adore hiking!
-
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukelumakin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@lukelumakin8102) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukegabriel520@gmail.com) 
 
